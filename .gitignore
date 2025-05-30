@@ -41,6 +41,13 @@
 *.VC.db
 *.VC.opendb
 
+#----------------------------------
+## Should we ignore these folders?
+Intermediate
+Binaries
+*.log
+#----------------------------------
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
