@@ -41,6 +41,11 @@
 *.VC.db
 *.VC.opendb
 
+# ADDED: 3rd party Content
+!/BlankUEGame_55/Content
+/BlankUEGame_55/Content/*
+!/BlankUEGame_55/Content/_Content
+
 #----------------------------------
 ## Should we ignore these folders?
 Intermediate

@@ -45,11 +45,11 @@ Make sure LFS is running
 1. Add: r.Nanite.Tessellation=1
 1. Add: r.Nanite.AllowTessellation=1
 
-1. In console, enter replacing = with space
-1. Enter: r.Nanite.Tessellation 1
-1. Enter: r.Nanite.AllowTessellation 1
+#### **Can be enabled or disabled in Console**
 
-1. Enable Nanite in Landscape
+1. Enter: r.Nanite.Tessellation 1
+
+#### **Enable Nanite in Landscape**
 
 **NOTE:** Remember to enable Nanite in all your assets
 
