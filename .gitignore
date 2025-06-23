@@ -48,6 +48,9 @@ Binaries
 *.log
 #----------------------------------
 
+#
+DerivedDataCache
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
