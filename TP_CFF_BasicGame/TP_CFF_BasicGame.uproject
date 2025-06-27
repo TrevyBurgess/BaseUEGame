@@ -54,6 +54,11 @@
 		{
 			"Name": "PCG",
 			"Enabled": true
+		},
+		{
+			"Name": "AdvancedQuest",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.fab.com/portal/listings/a9e1dd83-6f04-4068-881c-d891b87ab3b5/preview"
 		}
 	]
 }

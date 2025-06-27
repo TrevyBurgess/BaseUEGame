@@ -28,7 +28,7 @@ Make sure LFS is running
 
 1. Intermediate
 1. Binaries
-1. *.log
+1. \*.log
 
 ## 2. Customization
 
@@ -54,3 +54,15 @@ Make sure LFS is running
 **NOTE:** Remember to enable Nanite in all your assets
 
 [Nanite](https://dev.epicgames.com/documentation/en-us/unreal-engine/nanite-virtualized-geometry-in-unreal-engine)
+
+## 3. Plugins
+
+| Plug In                                 | description                 |
+| --------------------------------------- | --------------------------- |
+| Landscape Patch                         |                             |
+| Text 3D                                 |                             |
+| Water, Water Advanced                   |                             |
+| Advanced Quest System                   |                             |
+| Animation Locomotion Library            | For accurate foot placement |
+| Modeling Tools Editor Mode              |                             |
+| Procedural Content Generation Framework |                             |
