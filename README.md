@@ -4,13 +4,13 @@ This includes some useful configurations, including...
 
 ## 1. GitHub integration [Git Integration](https://www.youtube.com/watch?v=n3x1fErlmYA)
 
-Install software
+### 1.1. Install software
 
 1. [Install Git LFS](https://git-lfs.github.com/)
 1. [Install GitHub Desktop](https://desktop.github.com/)
 1. [Install Git Console](https://git-scm.com/)
 
-Include Git customization
+### 1.2. Include Git customization
 
 1. .gitignore: Used to ignore dynamically generated files
 1. .gitattributes: for large files that included in the LFS
@@ -24,7 +24,11 @@ Make sure LFS is running
 1. If tracked, remove project
 1. Re-add project. You know it worked when it asks you to Initialize GIT LFS
 
-### 1.1. Do we need the contents of these folders
+### 1.3. Creating Custom Templates
+
+1. [Creating Custom Templates](https://dev.epicgames.com/documentation/en-us/unreal-engine/converting-a-project-to-an-unreal-engine-template)
+
+### 1.4. Do we need the contents of these folders
 
 1. Intermediate
 1. Binaries
